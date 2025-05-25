@@ -1,0 +1,1 @@
+alert('Este site é destinado exclusivamente a maiores de 18 anos. Aproveite com responsabilidade!');
