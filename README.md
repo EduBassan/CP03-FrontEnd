@@ -27,7 +27,7 @@ Estudante e entusiasta de desenvolvimento front-end, apaixonado por design elega
 ## 🔗 Links Importantes
 
 - **Repositório GitHub**: [https://github.com/EduBassan/CP03_JavaScript](https://github.com/EduBassan/CP03_JavaScript)  
-- **Versão no GitHub Pages**: []()
+- **Versão no GitHub Pages**: [https://edubassan.github.io/CP03-FrontEnd/](https://edubassan.github.io/CP03-FrontEnd/)
 
 ---
 
